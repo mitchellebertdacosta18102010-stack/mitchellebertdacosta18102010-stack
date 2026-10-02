@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Mitchell!
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🖥️ Focado em Python, HTML e CSS
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📫 Contato: mitchellebertdacosta18102010@gmail.com
 
 <!--
 **mitchellebertdacosta18102010-stack/mitchellebertdacosta18102010-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
